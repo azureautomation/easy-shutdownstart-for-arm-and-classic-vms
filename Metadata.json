@@ -1,0 +1,20 @@
+{
+    "Author": "Mehmet \u00c7ako\u011flu",
+    "ContentSize": 4231,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/easy-shutdownstart-for-arm-and-classic-vms/master/Shutdown-Start-VMs.ps1",
+    "DownloadCount": 1538,
+    "Id": "Easy-ShutdownStart-for-ARM-85f44343",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 230,
+    "RaterCount": 2,
+    "Rating": 4.5,
+    "ReleaseDate": "2017-9-15T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This script shutdowns/starts VMs (both ASM and ARM) just by given aVM name.",
+    "Title": "Easy Shutdown/Start for ARM and Classic VMs",
+    "UpdatedDate": "2017-9-15T00:00:00",
+    "Url": "https://github.com/azureautomation/easy-shutdownstart-for-arm-and-classic-vms",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
